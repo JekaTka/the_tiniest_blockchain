@@ -1,0 +1,22 @@
+{
+  "name": "the_tiniest_blockchain",
+  "version": "1.0.0",
+  "description": "Basic version of the blockchain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "docker",
+    "blockchain",
+    "chai",
+    "mocha"
+  ],
+  "author": "Jenya Tkachenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
